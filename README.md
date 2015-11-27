@@ -7,7 +7,7 @@ The libraries used (hbase, hadoop etc) has been upgraded.
 ###Build instructions
   - Clone the source:
 
-        git clone github.com/flipkart-incubator/ranger
+        git clone https://github.com/shashankg/HBaseDS.git
 
   - Build
 
