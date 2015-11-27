@@ -20,6 +20,22 @@
         <testng.version>6.9.9</testng.version>
     </properties>
 
+    <scm>
+        <connection>scm:git:https://github.com/shashankg/HBaseDS.git</connection>
+        <developerConnection>scm:git:https://github.com/shashankg/HBaseDS.git</developerConnection>
+        <tag>HEAD</tag>
+        <url>https://github.com/shashankg/HBaseDS.git</url>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.hbase</groupId>
